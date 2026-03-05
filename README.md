@@ -21,4 +21,4 @@ Proyek ini menunjukkan kreativitas dan pemahaman dasar alur program melalui **Sc
 Kamu bisa mencoba langsung permainan ini melalui web resmi Scratch atau mengunduh file `.sb3` di repositori ini dan membukanya di editor Scratch.
 
 ---
-Koleksi proyek oleh [Nico](https://github.com/Nicolas-Kristanto/shiny-winner)
+**Koleksi proyek oleh [Nico](https://github.com/Nicolas-Kristanto/shiny-winner)**
